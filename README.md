@@ -13,7 +13,7 @@ Results on the following key findings are expected:
 #### County:
 - Number of votes in Dever, Arapahoe and Jefferson counties
 - Winning county
-### Goals:
+## Goals:
 - Confirmation of winning candidate 
 - Confirmation of winning county
 - In addition, automation of the election results so the process can be used for any election in the future
@@ -48,7 +48,7 @@ Winning Percentage: 82.8%
 
 ## Election Summary:
 - Diana DeGette is the winner of this election with the majority of votes (272,892).  She won with the percentage of 73.8%
-- Denver county won this election with the majority of votes (306,055) with the percentage of 82.8%
+- Denver county won this election with the majority of votes (306,055). It won with the percentage of 82.8%
 ## Proposal:
-It is suggested that the election process is fully automated for future puprposes so it can be used for ANY elections. This can be done by making necessary adjustments to the VS Code syntax based on .csv election file/s by creating lists and indexes that would reflect the election results.csv 
+It is suggested that the election process is fully automated for future puprposes so it can be used for any election. This can be done by making necessary adjustments to the VS Code syntax based on .csv election file/s by creating lists and indexes that would reflect any election results 
 
