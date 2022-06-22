@@ -29,6 +29,7 @@ Winning candidate:
 ## Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
+
 ![](Candidates%20election%20results.png)
 
 ### Counties
@@ -43,4 +44,4 @@ Winning county:
 Winning Vote Count: 306,055
 Winning Percentage: 82.8%
 
-![](Counties%20Electin%20Results.png)
+![](Overall%20and%20Counties%20Electin%20Results.png)
