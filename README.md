@@ -30,4 +30,4 @@ Winning candidate:
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
-![](VBA_Challenge_AllStocks2017.png)
+![](Candidates%20election%20results.png)
