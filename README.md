@@ -13,7 +13,7 @@ Results on the following key findings are expected:
 #### County:
 - Number of votes in Dever, Arapahoe and Jefferson counties
 - Winning county
-#### Goals:
+### Goals:
 - Confirmation of winning candidate 
 - Confirmation of winning county
 - In addition, automation of the election results so it can be used for any election in the future
