@@ -45,3 +45,10 @@ Winning Vote Count: 306,055
 Winning Percentage: 82.8%
 
 ![](Overall%20and%20Counties%20Electin%20Results.png)
+
+## Election Summary:
+- Diana DeGette is the winner of this election with the majority of votes (272,892).  She won with the percentage of 73.8%
+- Denver county won this election with the majority of votes (306,055) with the percentage of 82.8%
+## Proposal:
+It is suggested that the election process is fully automated so it can be used for ANY elections in the future.  This can be done by 
+
