@@ -41,4 +41,4 @@ Winning county:
 ## Winner: Denver
 Winning Vote Count: 306,055
 Winning Percentage: 82.8%
-![](Candidates%20election%20results.png)
+![](Counties%20Electin%20Results.png)
