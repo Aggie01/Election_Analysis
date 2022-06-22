@@ -50,5 +50,5 @@ Winning Percentage: 82.8%
 - Diana DeGette is the winner of this election with the majority of votes (272,892).  She won with the percentage of 73.8%
 - Denver county won this election with the majority of votes (306,055) with the percentage of 82.8%
 ## Proposal:
-It is suggested that the election process is fully automated so it can be used for ANY elections in the future.  This can be done by 
+It is suggested that the election process is fully automated for future puprposes so it can be used for ANY elections. This can be done by making necessary adjustments to the VS Code syntax based on .csv election file/s by creating lists and indexes that would reflect the election results.csv 
 
