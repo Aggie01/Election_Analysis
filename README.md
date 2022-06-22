@@ -5,7 +5,7 @@
 Confirmation of the election results in Colorado by assisting Colorado Board of Elections.
 ## Expectations:
 Results on the following key findings are expected:
-#### Candidates
+#### Candidates:
 - Total number of votes cast
 - Total number of votes for each candidate
 - Percentage of votes for each candidate
@@ -41,3 +41,4 @@ Winning county:
 ## Winner: Denver
 Winning Vote Count: 306,055
 Winning Percentage: 82.8%
+![](Candidates%20election%20results.png)
