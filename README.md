@@ -30,15 +30,17 @@ Winning candidate:
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 ![](Candidates%20election%20results.png)
+
 ### Counties
 Total number of votes that were cast:
--Total Votes: 369,711
+- Total Votes: 369,711
 Number of votes and percentage of total votes for each county:
--Jefferson: 10.5% (38,855)
--Denver: 82.8% (306,055)
--Arapahoe: 6.7% (24,801)
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
 Winning county:
 ## Winner: Denver
 Winning Vote Count: 306,055
 Winning Percentage: 82.8%
+
 ![](Counties%20Electin%20Results.png)
